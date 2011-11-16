@@ -16,7 +16,7 @@ font-size: 13px;
 font-family: Arial,Helvetica,sans-serif;
 color: #666666;
 margin: 0;
-padding: 0;
+padding: 10;
 line-height: 1.5em;
 }
 
@@ -66,8 +66,8 @@ header {
 margin: 0 auto;
 overflow:hidden;
 width:960px;
-padding:0px 20px;
-background:url('images/header_bg.jpg') repeat-y center 0;
+padding:0px 0px;
+/* background:url('images/header_bg.jpg') repeat-y center 0; */
 }
 
 header .logo {
